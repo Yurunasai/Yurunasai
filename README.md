@@ -1,7 +1,7 @@
 # Halo Semua! 👋 Saya Yuru
 
 ## Tentang Saya
-Saya penggemar anime, penikmat manga, dan sedang bersemangat belajar coding. Senang sekali bisa menggabungkan hobi menonton anime dan membaca manga dengan minat saya di dunia pemrograman.
+Saya penggemar anime, pembaca manga, dan senang belajar coding. Senang sekali bisa menggabungkan hobi menonton anime dan membaca manga dengan minat saya di dunia pemrograman.
 
 ### 🌟 Hobi
 - 📺 Menonton Anime
