@@ -13,7 +13,7 @@ Beberapa anime yang sangat saya sukai:
 1. Yuru Camp
 2. Grandblue
 3. Shokugeki no Souma
-4. Foto Uhun no Hanayome
+4. Gotoubun no Hanayome
 
 ## Manga Yang Dibaca
 Manga-manga yang sedang saya baca:
